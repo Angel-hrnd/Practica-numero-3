@@ -1,0 +1,14 @@
+C:\practica 3\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe.config
+C:\practica 3\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.exe
+C:\practica 3\SistemaVentas\SistemaVentas\bin\Debug\SistemaVentas.pdb
+C:\practica 3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.AssemblyReference.cache
+C:\practica 3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Form1.resources
+C:\practica 3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FrmCategorias.resources
+C:\practica 3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FrmProductos.resources
+C:\practica 3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.Properties.Resources.resources
+C:\practica 3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.GenerateResource.cache
+C:\practica 3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.csproj.CoreCompileInputs.cache
+C:\practica 3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.exe
+C:\practica 3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.pdb
+C:\practica 3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FrmClientes.resources
+C:\practica 3\SistemaVentas\SistemaVentas\obj\Debug\SistemaVentas.FrmProveedores.resources
